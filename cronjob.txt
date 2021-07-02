@@ -1,0 +1,1 @@
+this is a cron job config to run the script periodically.
